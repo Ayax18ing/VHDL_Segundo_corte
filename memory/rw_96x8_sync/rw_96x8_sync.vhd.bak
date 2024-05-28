@@ -1,0 +1,26 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity rw_96x8_sync is
+port
+	(
+		-- Input ports
+		address	: in  std_logic_vector (7 downto 0);
+		clock		: in	std_logic;
+
+		-- Output ports
+		data_out	: out std_logic_vector (7 downto 0)
+	);
+end rw_96x8_sync;
+
+
+architecture arch_rw_96x8_sync of rw_96x8_sync is
+
+	
+
+begin
+
+	
+
+end arch_rw_96x8_sync;

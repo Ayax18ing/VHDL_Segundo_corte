@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Samuel\Desktop\Lab-Quartus\memory\rom_128x8_sync\simulation\qsim
+vrom_128x8_sync
+Z1 !s100 Um9kCOSjYICG0iN`8J?>N0
+Z2 I4d_kI:`AYL9;nVRc@L40z2
+Z3 V5`iZhg0o;TYTB4D^^nAU_0
+Z4 dC:\Users\Samuel\Desktop\Lab-Quartus\memory\rom_128x8_sync\simulation\qsim
+Z5 w1716501466
+Z6 8rom_128x8_sync.vo
+Z7 From_128x8_sync.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|rom_128x8_sync.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1716501467.377000
+Z12 !s107 rom_128x8_sync.vo|
+!s101 -O0
+vrom_128x8_sync_vlg_check_tst
+!i10b 1
+Z13 !s100 =HJhcGS;[2]8zHePzi9]Y0
+Z14 I5]4GG]hO1n`I20FMNd4G91
+Z15 VD3?^fd0iAe76XCh_aZY1Z0
+R4
+Z16 w1716501465
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1716501467.439000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vrom_128x8_sync_vlg_sample_tst
+!i10b 1
+Z22 !s100 Z_N;S_d09@C[`fiRoSY8W3
+Z23 I0m@gC<KAdB4]Mm5H]jCEO0
+Z24 VmKnMAjAVX<Bde@fDKWTND2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vrom_128x8_sync_vlg_vec_tst
+!i10b 1
+!s100 3MHJ;9^MRD22Wl43JUeJj1
+I@5BU4S=iB>oD;QL`]m>5Y2
+Z25 Vm6>DbgQdHQG3g>XJVQzNW2
+R4
+R16
+R17
+R18
+Z26 L0 279
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

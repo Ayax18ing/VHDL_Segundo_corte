@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Samuel\Desktop\Lab-Quartus\memory\output_ports\simulation\qsim
+voutput_ports
+Z1 ISokPCZfJO2eGQ4U__gHi^0
+Z2 Vk93C[B4Sj9=Odkhgm7S]23
+Z3 dC:\Users\Samuel\Desktop\Lab-Quartus\memory\output_ports\simulation\qsim
+Z4 w1716503624
+Z5 8output_ports.vo
+Z6 Foutput_ports.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 kcAkNBSf:d`GnEmIJUY9A3
+!s85 0
+Z10 !s108 1716503624.822000
+Z11 !s107 output_ports.vo|
+Z12 !s90 -work|work|output_ports.vo|
+!s101 -O0
+voutput_ports_vlg_check_tst
+!i10b 1
+!s100 TJ[JB2kjjI9a3BK2UVhlb1
+I934O>^TLHb41`C774kf>R1
+VMId7MM5lPVaA[;V1zbJFS3
+R3
+Z13 w1716503622
+Z14 8Waveform.vwf.vt
+Z15 FWaveform.vwf.vt
+L0 65
+R7
+r1
+!s85 0
+31
+Z16 !s108 1716503624.885000
+Z17 !s107 Waveform.vwf.vt|
+Z18 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+voutput_ports_vlg_sample_tst
+!i10b 1
+!s100 G99k44?`8`dh5<29[>DVS2
+IzzAnWa8dd>Hj52>RL3o0>2
+VL5lD4dCWZ<M>gbC2^SM:b3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+voutput_ports_vlg_vec_tst
+!i10b 1
+!s100 jlQ[?WbBMRazYo_JME5=d3
+I4BnMRik2eFCW@5InFZ>dE2
+VIIN^b9gj5?>Obhl3ZoNoX2
+R3
+R13
+R14
+R15
+L0 437
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

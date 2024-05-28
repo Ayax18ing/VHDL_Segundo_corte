@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Samuel\Desktop\Lab-Quartus\memory\memoria\simulation\qsim
+vmemoria
+Z1 !s100 zdEQ`L3zMkSB[nVAY?[GT3
+Z2 IaM1mTza5ob?ZL9hEIa9L_3
+Z3 VZHIkTaLcmFbocO<>mlSZc0
+Z4 dC:\Users\Samuel\Desktop\Lab-Quartus\memory\memoria\simulation\qsim
+Z5 w1716687859
+Z6 8memoria.vo
+Z7 Fmemoria.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|memoria.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1716687859.923000
+Z12 !s107 memoria.vo|
+!s101 -O0
+vmemoria_vlg_check_tst
+!i10b 1
+Z13 !s100 ABTl^P[Z6LdMKJ;O@ZWFU2
+Z14 I1>EZn9cY3YL`RjS?QLLWY0
+Z15 V`ANTkh0P:5fEA@UJUO2NR2
+R4
+Z16 w1716687857
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 69
+R8
+r1
+!s85 0
+31
+Z19 !s108 1716687860.282000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vmemoria_vlg_sample_tst
+!i10b 1
+Z22 !s100 2LHjMeiiBDzY];@LjMOWB1
+Z23 IQ2B8Bbzi?5_fbb2WH<5OE2
+Z24 V7icC;_k^gV0Y:Y4`0?nk10
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmemoria_vlg_vec_tst
+!i10b 1
+Z25 !s100 Q9D:Rk;jRZh`BALmY?VjK1
+Z26 I=M^L^PA;<ADNzY9G^dTGb3
+Z27 VVH]O]a3BNQ[M@6mU`Kkl11
+R4
+R16
+R17
+R18
+Z28 L0 977
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
